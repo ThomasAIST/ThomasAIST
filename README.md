@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Thomas from Hong Kong. My major is Artificial Intellegence.
+I am interested in learning Chemistry. I am currently learning some new chess openings. My hobbies are playing the piano, table tennis, boardgames and chess.
 
 <!--
 **ThomasAIST/ThomasAIST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
